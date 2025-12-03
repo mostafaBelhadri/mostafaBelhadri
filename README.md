@@ -2,7 +2,6 @@
 <h3 align="center">Computer Science Student</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafabelhadri" alt="mostafabelhadri" /></a> </p>
 
 - I'm currently working on **Convex Hull Point Inclusion Test**
 
